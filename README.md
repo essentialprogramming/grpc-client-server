@@ -9,7 +9,6 @@ Use the following command to clone this repository:
 
     git clone https://github.com/essentialprogramming/grpc-client-server.git
 
-Then you can open the project in your favorite IDE.
 
 ### 3. Build and run the project  
 
