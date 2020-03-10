@@ -7,7 +7,7 @@ buffer message types in ```.proto``` files. Each protocol buffer message is a sm
 ### 2. Download project using git
 Use the following command to clone this repository:
 
-    git clone https://github.com/essentialprogramming/grpc-example.git
+    git clone https://github.com/essentialprogramming/grpc-client-server.git
 
 Then you can open the project in your favorite IDE.
 
